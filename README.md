@@ -94,9 +94,6 @@ The analysis provides valuable insights into ATM usage patterns, customer behavi
 ## File
 - **ATM Transaction Report:**[Dashboard Document](./Atm%20Dashboard.pdf)
 - **ATM Transaction presentation:**[Presentation Document](./Atm%20presentation.pdf)
-- 
-## License
-This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
 
 ## Contact Information
 - **Author:** Rupsa Chaudhuri
